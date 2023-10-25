@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/shoesshop/static/css/main.b0e6a4e3.css",
-    "main.js": "/shoesshop/static/js/main.6a02797e.js",
-    "static/js/787.462b490c.chunk.js": "/shoesshop/static/js/787.462b490c.chunk.js",
-    "static/media/현병찬글씨.ttf": "/shoesshop/static/media/현병찬글씨.a6a3a8b376fce67b237f.ttf",
-    "static/media/평보서희환체(WIN).ttf": "/shoesshop/static/media/평보서희환체(WIN).431e8a5ded45336f3da0.ttf",
-    "static/media/일중김충현체(WIN).ttf": "/shoesshop/static/media/일중김충현체(WIN).4d69c12060ffdf52aee3.ttf",
-    "static/media/ON 여씨향약언해B.ttf": "/shoesshop/static/media/ON 여씨향약언해B.99f46e09c3d4f9e5ecb2.ttf",
-    "static/media/KakaoTalk_20231006_190504783.jpg": "/shoesshop/static/media/KakaoTalk_20231006_190504783.84eb9499c78927609085.jpg",
-    "static/media/Pretendard-Medium.ttf": "/shoesshop/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
-    "static/media/orchard.jpg": "/shoesshop/static/media/orchard.584360374c75e5237b08.jpg",
-    "static/media/item-detail-frame-bg01.jpg": "/shoesshop/static/media/item-detail-frame-bg01.680e64493e122cfae5f5.jpg",
-    "index.html": "/shoesshop/index.html",
-    "main.b0e6a4e3.css.map": "/shoesshop/static/css/main.b0e6a4e3.css.map",
-    "main.6a02797e.js.map": "/shoesshop/static/js/main.6a02797e.js.map",
-    "787.462b490c.chunk.js.map": "/shoesshop/static/js/787.462b490c.chunk.js.map"
+    "main.css": "/grimshop/static/css/main.cd571fd2.css",
+    "main.js": "/grimshop/static/js/main.100a5cce.js",
+    "static/js/787.462b490c.chunk.js": "/grimshop/static/js/787.462b490c.chunk.js",
+    "static/media/현병찬글씨.ttf": "/grimshop/static/media/현병찬글씨.a6a3a8b376fce67b237f.ttf",
+    "static/media/평보서희환체(WIN).ttf": "/grimshop/static/media/평보서희환체(WIN).431e8a5ded45336f3da0.ttf",
+    "static/media/일중김충현체(WIN).ttf": "/grimshop/static/media/일중김충현체(WIN).4d69c12060ffdf52aee3.ttf",
+    "static/media/ON 여씨향약언해B.ttf": "/grimshop/static/media/ON 여씨향약언해B.99f46e09c3d4f9e5ecb2.ttf",
+    "static/media/KakaoTalk_20231006_190504783.jpg": "/grimshop/static/media/KakaoTalk_20231006_190504783.84eb9499c78927609085.jpg",
+    "static/media/Pretendard-Medium.ttf": "/grimshop/static/media/Pretendard-Medium.7f0e62f904e2bce0dbfb.ttf",
+    "static/media/orchard.jpg": "/grimshop/static/media/orchard.584360374c75e5237b08.jpg",
+    "static/media/item-detail-frame-bg01.jpg": "/grimshop/static/media/item-detail-frame-bg01.680e64493e122cfae5f5.jpg",
+    "index.html": "/grimshop/index.html",
+    "main.cd571fd2.css.map": "/grimshop/static/css/main.cd571fd2.css.map",
+    "main.100a5cce.js.map": "/grimshop/static/js/main.100a5cce.js.map",
+    "787.462b490c.chunk.js.map": "/grimshop/static/js/787.462b490c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0e6a4e3.css",
-    "static/js/main.6a02797e.js"
+    "static/css/main.cd571fd2.css",
+    "static/js/main.100a5cce.js"
   ]
 }
