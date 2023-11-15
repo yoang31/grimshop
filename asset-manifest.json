@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/grimshop/static/css/main.cf91face.css",
-    "main.js": "/grimshop/static/js/main.cb8a15ff.js",
+    "main.js": "/grimshop/static/js/main.d6f3e437.js",
     "static/js/787.462b490c.chunk.js": "/grimshop/static/js/787.462b490c.chunk.js",
     "static/media/현병찬글씨.ttf": "/grimshop/static/media/현병찬글씨.a6a3a8b376fce67b237f.ttf",
     "static/media/평보서희환체(WIN).ttf": "/grimshop/static/media/평보서희환체(WIN).431e8a5ded45336f3da0.ttf",
@@ -13,11 +13,11 @@
     "static/media/item-detail-frame-bg01.jpg": "/grimshop/static/media/item-detail-frame-bg01.680e64493e122cfae5f5.jpg",
     "index.html": "/grimshop/index.html",
     "main.cf91face.css.map": "/grimshop/static/css/main.cf91face.css.map",
-    "main.cb8a15ff.js.map": "/grimshop/static/js/main.cb8a15ff.js.map",
+    "main.d6f3e437.js.map": "/grimshop/static/js/main.d6f3e437.js.map",
     "787.462b490c.chunk.js.map": "/grimshop/static/js/787.462b490c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cf91face.css",
-    "static/js/main.cb8a15ff.js"
+    "static/js/main.d6f3e437.js"
   ]
 }
